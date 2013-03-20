@@ -1,1 +1,8 @@
-<h2>It works!</h2>
+<!doctype html>
+<!-- from: https://github.com/lifesinger/lifesinger.github.com/blob/master/index.html -->
+<script>
+	var id = parseInt(location.search.substring(1));
+	location.replace(
+		'https://github.com/iptux/iptux.github.com/issues' +
+		(id ? '/' + id : '?labels=blog'));
+</script>
