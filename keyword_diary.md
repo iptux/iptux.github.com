@@ -20,6 +20,7 @@ _keyword diary_ from [matrix67][]
  * 27 [预测机][PREDICTING_MACHINE]
  * 28 cm-10.2
  * 29 顺水推舟
+ * 30 Memory Reserved
 
 [matrix67]: http://www.matrix67.com/keywords.html
 [PREDICTING_MACHINE]: http://suckless.info/blog/22
