@@ -23,5 +23,10 @@ _keyword diary_ from [matrix67][]
  * 30 Memory Reserved
  * 31 凉糕
 
+* 2013-08
+ * 01 尝试与海豚
+
+
+
 [matrix67]: http://www.matrix67.com/keywords.html
 [PREDICTING_MACHINE]: http://suckless.info/blog/22
