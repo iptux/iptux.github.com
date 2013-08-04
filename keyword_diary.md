@@ -27,6 +27,7 @@ _keyword diary_ from [matrix67][]
  * 01 尝试与海豚
  * 02 变形记
  * 03 冰块与西瓜
+ * 04 OLED driver
 
 
 
