@@ -31,6 +31,7 @@ _keyword diary_ from [matrix67][]
  * 05 酒不醉人人自醉
  * 06 如果与未来
  * 07 住房公积金
+ * 08 kernel module
 
 
 
