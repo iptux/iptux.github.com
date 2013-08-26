@@ -48,6 +48,7 @@ _keyword diary_ from [matrix67][]
  * 22 拖延症
  * 23 策略
  * 24 置办
+ * 25 相机
 
 
 
