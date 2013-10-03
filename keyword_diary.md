@@ -86,6 +86,7 @@ _keyword diary_ from [matrix67][]
  * 27 河图洛书
  * 28 补觉
  * 29 撞钟
+ * 30 商讨会
 
 
 
