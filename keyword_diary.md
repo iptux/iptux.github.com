@@ -88,6 +88,9 @@ _keyword diary_ from [matrix67][]
  * 29 撞钟
  * 30 商讨会
 
+* 2013-10
+ * 01 国庆
+
 
 
 [matrix67]: http://www.matrix67.com/keywords.html
