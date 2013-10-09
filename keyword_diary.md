@@ -96,6 +96,7 @@ _keyword diary_ from [matrix67][]
  * 05 怨妇
  * 06 重新启程
  * 07 A0249
+ * 08 疯狂原始人
 
 
 
