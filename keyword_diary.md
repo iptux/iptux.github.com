@@ -104,6 +104,7 @@ _keyword diary_ from [matrix67][]
  * 13 camera stream
  * 14 iDevice
  * 15 checksum
+ * 16 示波器
 
 
 
