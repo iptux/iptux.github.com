@@ -103,6 +103,7 @@ _keyword diary_ from [matrix67][]
  * 12 shortcut icon
  * 13 camera stream
  * 14 iDevice
+ * 15 checksum
 
 
 
