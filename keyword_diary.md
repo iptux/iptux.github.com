@@ -105,6 +105,7 @@ _keyword diary_ from [matrix67][]
  * 14 iDevice
  * 15 checksum
  * 16 示波器
+ * 17 offset=0.5mm
 
 
 
