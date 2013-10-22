@@ -110,6 +110,7 @@ _keyword diary_ from [matrix67][]
  * 19 2000W
  * 20 Camera Preview
  * 21 装机
+ * 22 修机子
 
 
 
