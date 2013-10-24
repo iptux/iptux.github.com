@@ -112,6 +112,7 @@ _keyword diary_ from [matrix67][]
  * 21 装机
  * 22 修机子
  * 23 psd
+ * 24 学子
 
 
 
