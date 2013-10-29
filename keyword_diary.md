@@ -116,6 +116,7 @@ _keyword diary_ from [matrix67][]
  * 25 冠城
  * 26 逃
  * 27 宅
+ * 28 Q12
 
 
 
