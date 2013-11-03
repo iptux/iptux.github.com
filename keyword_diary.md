@@ -124,6 +124,7 @@ _keyword diary_ from [matrix67][]
 * 2013-11
  * 01 美女程序员
  * 02 E49A
+ * 03 ghost
 
 
 
