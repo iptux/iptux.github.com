@@ -151,6 +151,7 @@ _keyword diary_ from [matrix67][]
  * 26 CT
  * 27 决心
  * 28 特大喜讯
+ * 29 翘班
 
 
 
