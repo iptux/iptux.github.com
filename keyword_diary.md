@@ -157,6 +157,7 @@ _keyword diary_ from [matrix67][]
 * 2013-12
  * 01 死宅
  * 02 心态一变，工作瞬间轻松多了
+ * 03 locked
 
 
 
