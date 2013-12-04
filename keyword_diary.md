@@ -158,6 +158,7 @@ _keyword diary_ from [matrix67][]
  * 01 死宅
  * 02 心态一变，工作瞬间轻松多了
  * 03 locked
+ * 04 STABLE ROM
 
 
 
