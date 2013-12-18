@@ -172,6 +172,7 @@ _keyword diary_ from [matrix67][]
  * 15 networkless
  * 16 flush
  * 17 gps gpio
+ * 18 mingw-get
 
 
 
