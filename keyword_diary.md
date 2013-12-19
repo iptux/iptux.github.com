@@ -173,6 +173,7 @@ _keyword diary_ from [matrix67][]
  * 16 flush
  * 17 gps gpio
  * 18 mingw-get
+ * 19 8089D
 
 
 
