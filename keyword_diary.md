@@ -176,6 +176,7 @@ _keyword diary_ from [matrix67][]
  * 19 8089D
  * 20 back to cpp
  * 21 bootlogo
+ * 22 debian for mips
 
 
 
