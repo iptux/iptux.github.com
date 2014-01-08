@@ -185,6 +185,9 @@ _keyword diary_ from [matrix67][]
  * 28 啊勒
  * 29 /dev/disp
 
+* 2014-01
+ * 08 自锁开关
+
 
 
 [matrix67]: http://www.matrix67.com/keywords.html
