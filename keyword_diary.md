@@ -208,6 +208,9 @@ _keyword diary_ from [matrix67][]
  * 27 团年
  * 28 归途
 
+* 2014-02
+ * 07 停电
+
 
 
 [matrix67]: http://www.matrix67.com/keywords.html
