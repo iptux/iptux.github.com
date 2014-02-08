@@ -210,6 +210,7 @@ _keyword diary_ from [matrix67][]
 
 * 2014-02
  * 07 停电
+ * 08 雨雾
 
 
 
