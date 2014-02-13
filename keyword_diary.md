@@ -214,6 +214,7 @@ _keyword diary_ from [matrix67][]
  * 09 genlock
  * 10 2 * 3 = 6
  * 11 Virtual Keyboard
+ * 12 layout
 
 
 
