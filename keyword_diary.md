@@ -228,6 +228,7 @@ _keyword diary_ from [matrix67][]
  * 23 境界的彼方
  * 24 metro
  * 25 EVA
+ * 26 repeat/replay
 
 
 
