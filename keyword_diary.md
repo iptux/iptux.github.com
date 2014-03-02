@@ -232,6 +232,9 @@ _keyword diary_ from [matrix67][]
  * 27 堕落
  * 28 撞大运式编程
 
+* 2014-03
+ * 01 sh -> dash
+
 
 
 [matrix67]: http://www.matrix67.com/keywords.html
