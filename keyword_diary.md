@@ -230,6 +230,7 @@ _keyword diary_ from [matrix67][]
  * 25 EVA
  * 26 repeat/replay
  * 27 堕落
+ * 28 撞大运式编程
 
 
 
