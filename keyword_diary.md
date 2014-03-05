@@ -236,6 +236,7 @@ _keyword diary_ from [matrix67][]
  * 01 sh -> dash
  * 02 SIGBUS
  * 03 BTS
+ * 04 那朵花
 
 
 
