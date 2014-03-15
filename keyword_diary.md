@@ -246,6 +246,7 @@ _keyword diary_ from [matrix67][]
  * 11 空中浩劫
  * 12 tired
  * 13 过山车
+ * 14 思维方式
 
 
 
