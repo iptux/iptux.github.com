@@ -249,6 +249,7 @@ _keyword diary_ from [matrix67][]
  * 14 思维方式
  * 15 量产
  * 16 touch screen
+ * 17 户口
 
 
 
