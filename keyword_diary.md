@@ -260,6 +260,7 @@ _keyword diary_ from [matrix67][]
  * 25 困
  * 26 2048
  * 27 radius
+ * 28 SHAR
 
 
 
